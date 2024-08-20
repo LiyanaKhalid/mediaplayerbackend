@@ -1,0 +1,79 @@
+{
+  "videos": [
+    {
+      "caption": "perfect",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfFmz3wVrqz1AC1WiaTgINhWx8C9E0PV5Og&s",
+      "youtubeLink": "https://www.youtube.com/embed/cNGjD0VG4R8",
+      "id": 2
+    },
+    {
+      "caption": "tujanena",
+      "imageUrl": "https://i1.sndcdn.com/artworks-000313187460-e3s06k-t500x500.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/53l2DkivxJs",
+      "id": 3
+    },
+    {
+      "caption": "ring my bells",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27305a6cbc1f2a0e36b818f1351",
+      "youtubeLink": "https://www.youtube.com/embed/I2QZ4v-G6AY",
+      "id": 4
+    },
+    {
+      "caption": "nadaan parindey",
+      "imageUrl": "https://m.media-amazon.com/images/I/818KQeyaHxL._AC_UF894,1000_QL80_.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/ttIKsnxPrMY",
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "url": "https://www.youtube.com/embed/53l2DkivxJs",
+      "caption": "tujanena",
+      "timestamp": "08/19/2024, 08:38:55 AM",
+      "id": 1
+    },
+    {
+      "url": "https://www.youtube.com/embed/cNGjD0VG4R8",
+      "caption": "perfect",
+      "timestamp": "08/19/2024, 09:03:42 AM",
+      "id": 3
+    },
+    {
+      "url": "https://www.youtube.com/embed/53l2DkivxJs",
+      "caption": "tujanena",
+      "timestamp": "08/19/2024, 10:10:52 AM",
+      "id": 4
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "bollywood",
+      "allVideos": [
+        {
+          "caption": "tujanena",
+          "imageUrl": "https://i1.sndcdn.com/artworks-000313187460-e3s06k-t500x500.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/53l2DkivxJs",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "hollywood",
+      "allVideos": [
+        {
+          "caption": "perfect",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUfFmz3wVrqz1AC1WiaTgINhWx8C9E0PV5Og&s",
+          "youtubeLink": "https://www.youtube.com/embed/cNGjD0VG4R8",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "kollywood",
+      "allVideos": [],
+      "id": 3
+    }
+  ]
+}
